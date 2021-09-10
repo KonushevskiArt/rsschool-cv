@@ -41,3 +41,11 @@ const deepCopy = (item) => {
 - link to my graduation project ([galaxy](https://github.com/KonushevskiArt/homework))
 - link to my another little project ([sticker](https://github.com/KonushevskiArt/homework))
 ***
+## _Education_
+- I completed the Professional Javascript course at the IT Academy. 
+- I also watched many different YouTube videos about the web interface (Vladilen Minin, webDev, Dmitry Lavrik, etc).
+- And I use sites like MDN Web Docs, LernJs, React doc and others.
+***
+## _Languages_ 
+- Russian (native)
+- English (A2)
