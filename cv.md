@@ -16,3 +16,28 @@ My name is Artsiom Kaniusheuski, I am 27 years old and I want to be a front-end 
 - Webpack (basic)
 - React, Redux (TypeScript) in process 
 ***
+## _Code examples_ 
+```javascript
+const deepCopy = (item) => {
+  let copy;
+  if (typeof item === 'object' && item !== null) {
+    if (Array.isArray(item)) {
+      copy = item.map((el) => deepCopy(el));
+    } else {
+      copy = {};
+      for (let key in item) {
+        copy[key] = deepCopy(item[key]);
+      }
+    }
+  } else {
+    copy = item;
+  }
+  return copy;
+}
+```
+***
+## _Experience_
+- professional Javascript course at IT Academy, where I performed many different tasks ([link to tasks](https://github.com/KonushevskiArt/homework))
+- link to my graduation project ([galaxy](https://github.com/KonushevskiArt/homework))
+- link to my another little project ([sticker](https://github.com/KonushevskiArt/homework))
+***
