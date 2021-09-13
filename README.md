@@ -1,1 +1,1 @@
-https://KonushevskiArt.github.io/rsschool-cv/cv
+https://konushevskiart.github.io/rsschool-cv/index.html
