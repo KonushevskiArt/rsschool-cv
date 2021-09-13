@@ -38,7 +38,7 @@ const deepCopy = (item) => {
 ***
 ## _Experience_
 - professional Javascript course at IT Academy, where I performed many different tasks ([link to tasks](https://github.com/KonushevskiArt/homework))
-- link to my graduation project ([galaxy](https://github.com/KonushevskiArt/homework))
+- link to my graduation project ([galaxy](https://github.com/KonushevskiArt/galaxy))
 - link to my another little project ([sticker](https://github.com/KonushevskiArt/homework))
 ***
 ## _Education_
