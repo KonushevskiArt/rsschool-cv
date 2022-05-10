@@ -333,7 +333,15 @@ button {
 }
 .skills-list li{
   margin-bottom: 10px;
-
+  min-height: 43px;
+  display: flex;
+  align-items: center;
+}
+.skills-list li > span{
+  margin-right: 5px;
+}
+.skills-list li > img{
+  margin-right: 5px;
 }
 @media(max-width: 768px) {
   .skills-list {
